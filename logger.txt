@@ -5,3 +5,5 @@ This will be the only logger file
 04:09 25°C
 04:19 25°C
 04:29 24°C
+04:39 25°C
+04:49 25°C
