@@ -1,0 +1,2 @@
+File A
+This is a file for SourceTree training
