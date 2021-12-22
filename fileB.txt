@@ -2,3 +2,5 @@ File B
 This is the second file for SourceTree training
 And Eva writes something on fileB.txt because we want to learn how SourceTree works
 This is a new update 2 signed by Main User 
+This is line 5!!!
+Adan was here!
