@@ -1,4 +1,5 @@
 File A
 This is a file for SourceTree training
 Adan writes this line and Eva is writing here too!
-This is a new update signed by Main UserI'm changing line 5, I'm Adan btw!
+This is a new update signed by Main User
+I'm changing line 5, I'm Adan btw!
