@@ -1,3 +1,7 @@
 Logger 
 This will be the only logger file
 03:49 24°C
+03:59 24°C
+04:09 25°C
+04:19 25°C
+04:29 24°C
